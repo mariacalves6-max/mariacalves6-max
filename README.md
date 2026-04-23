@@ -1,19 +1,14 @@
 
-### Olá! Eu sou o Meu nome 👋
+### Olá! Eu sou o Maria Clara 👋
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)
 
-![Meu nome GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_username&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_username&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![Maria Clara GitHub stats](https://github-readme-stats.vercel.app/api?username=mariacalves6-max&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariacalves6-max&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"></br>
-<img align="center" alt="html5" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-
-<img align="center" alt="html5" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
-
-<img align="center" alt="html5" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
